@@ -1,5 +1,3 @@
-# No Hello
-
 ## Please Don't Say Just Hello In Chat
 
 ```
@@ -30,4 +28,6 @@ If you feel it's brusque to simply say "Hi" and ask the question, you can do som
 ```
 Additionally, asking your question before getting a reply allows asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
-Short link to this page: http://nohello.com/. (If you see that as someone's status, please be prepared to be ignored if you only say "Hello!".)
+Short link to this page: https://nohello.alexanderwolf.io/. (If you see that as someone's status, please be prepared to be ignored if you only say "Hello!".)
+
+Taken from [nohello.com](https://www.nohello.com)

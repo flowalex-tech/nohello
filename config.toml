@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "nohello.alexanderwolf.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -60,15 +60,6 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "No Hello"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
