@@ -1,9 +1,13 @@
-## Please Don't Say Just Hello In Chat
+Please Don't Say Just Hello In Chat
 
 ```
 2010-07-19 12:32:12 you: Hi
 2010-07-19 12:32:15 co-worker: Hello.
-## CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
+```
+
+CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
+
+```
 2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
 2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
 ```
